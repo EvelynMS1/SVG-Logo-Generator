@@ -1,9 +1,8 @@
 # SVG-Logo-Generator ![license](https://img.shields.io/badge/license-MIT-blue.svg)
-Provides prompts for user to create an SVG logo varying from shape, color and text of their choosing.
 
 
 ## Description
-
+My motivation in building this program was to expand the capability and functionality of my code by using the concepts of constructors and classes which allow for better code and reusibility. I built this program for the purpose of creating an SVG logo from the given responses of a user,as well as making my code more useful and versitle and applicable.This problem solves the problem of having a program that creates a logo based on your desired prefernce,ranging from the type of shape and color. I learned to think of my code in terms of common use and what could be used as a common frame for reuse in the future in this case the implementation of constructors and classes.
 ## Table of Contents 
 
 - [Installation](#installation)
@@ -39,7 +38,8 @@ Provides prompts for user to create an SVG logo varying from shape, color and te
 
 
 ## Features
-
+Allows for the creation of multiple svg logos 
+Takes response from user for logo creation and modifications
 
 
 
